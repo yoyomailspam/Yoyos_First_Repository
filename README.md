@@ -1,2 +1,2 @@
-# Yoyos_First_Suppository
-First_Git_Suppository
+# Yoyos_First_Repository
+First_Git_Repository
